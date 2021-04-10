@@ -3,6 +3,7 @@
   "displayName": "blue-dark",
   "description": "",
   "version": "0.0.1",
+  "publisher": "Drakencord",
   "engines": {
     "vscode": "^1.55.0"
   },
